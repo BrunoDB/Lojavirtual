@@ -1,0 +1,119 @@
+.classe_div_compra_produto{
+
+float: left;
+width: 98%;
+padding: 1%;
+margin-top: 10px;
+margin-bottom: 5px;
+
+}
+
+.classe_div_compra_produto_quantidade{
+
+float: left;
+margin-top: 2px;
+margin-bottom: 2px;
+
+}
+
+.classe_div_compra_produto_botao{
+
+float: left;
+margin-top: 8px;
+margin-left: 5px;
+
+}
+
+.div_class_finaliza_compra_produto{
+
+float: left;
+width: 100%;
+margin-bottom: 2px;
+
+}
+
+.div_class_finaliza_compra_produto_div1{
+
+float: left;
+margin-right: 5px;
+
+}
+
+.div_class_finaliza_compra_produto_div2{
+
+float: left;
+margin-right: 10px;
+margin-top: 4px;
+font-size: 18px;
+font-weight: bold;
+color: #266e3e;
+
+background-color: #b2e2c2;
+border-width: 1px;
+border-style: solid;
+border-color: #9fdbb3;
+border-radius: 4px;
+padding: 2px;
+
+}
+
+.div_class_finaliza_compra_produto_div3{
+
+float: left;
+margin-right: 10px;
+margin-top: 4px;
+font-size: 18px;
+font-weight: bold;
+color: #90343e;
+
+background-color: #f9bcc2;
+border-width: 1px;
+border-style: solid;
+border-color: #f69aa4;
+border-radius: 4px;
+padding: 2px;
+
+}
+
+.div_classe_informa_cadastro_comprar_produto{
+
+float: left;
+width: 100%;
+
+}
+
+.div_classe_informa_cadastro_comprar_produto div{
+
+float: left;
+width: 100%;
+margin-top: 10px;
+margin-bottom: -5px;
+font-size: 14px;
+font-weight: bold;
+color: #c06c67;
+
+}
+
+.div_classe_informa_comprou_produto{
+
+float: left;
+margin-top: 10px;
+margin-right: 5px;
+width: 100%;
+
+}
+
+.div_classe_informa_comprou_produto_div1{
+
+float: left;
+
+}
+
+.div_classe_informa_comprou_produto_div2{
+
+float: left;
+margin-top: 10px;
+margin-left: 5px;
+
+}
+

@@ -1,0 +1,95 @@
+.classe_div_campo_seguir{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_campo_seguir div{
+
+float: left;
+margin-right: 5px;
+height: 28px;
+
+}
+
+.classe_div_seguidores_usuario{
+
+float: left;
+padding: 1%;
+width: 98%;
+display: table;
+
+}
+
+.classe_div_carregar_mais_seguidores{
+
+padding: 1%;
+width: 98%;
+font-weight: bold;
+font-size: 15px;
+float: left;
+margin-top: 5px;
+margin-bottom: 50px;
+text-align: center;
+cursor: pointer;
+color: #22afc3;
+
+}
+
+.classe_div_seguidor_usuario{
+
+float: left;
+width: 300px;
+margin-bottom: 15px;
+height: 50px;
+margin-right: 5px;
+background-color: #fff7c1;
+padding: 2px;
+border-color: #fff3a2;
+border-width: 1px;
+border-style: solid;
+
+}
+
+.classe_div_seguidor_usuario_imagem{
+
+width: 35px;
+height: 100%;
+float: left;
+margin-right: 5px;
+
+}
+
+.classe_div_seguidor_usuario_nome{
+
+float: left;
+width: 255px;
+margin-bottom: 5px;
+
+}
+
+.classe_div_seguidor_usuario_botao{
+
+float: left;
+width: 255px;
+margin-bottom: 2px;
+
+}
+
+.classe_div_seguidores_usuario_numero{
+
+float: left;
+width: 98%;
+background-color: #fff7c1;
+padding: 1%;
+border-color: #fff3a2;
+border-width: 1px;
+border-style: solid;
+margin-bottom: 10px;
+font-size: 18px;
+font-weight: bold;
+
+}
+
+

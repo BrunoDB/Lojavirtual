@@ -1,0 +1,21 @@
+.classe_div_mensagem_sistema{
+
+width: 98%;
+padding: 1%;
+color: #3b5998;
+border-width: 1px;
+border-style: solid;
+border-color: #f5a8f2;
+background-color: #fbdcf9;
+float: left;
+margin-top: 5px;
+margin-bottom: 5px;
+
+}
+
+.classe_div_mensagem_sistema *{
+
+color: #3b5998;
+
+}
+

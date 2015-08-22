@@ -1,0 +1,184 @@
+.classe_div_chat{
+
+float: left;
+width: 100%;
+display: table;
+
+}
+
+.classe_div_chat_usuarios{
+
+float: left;
+padding: 1%;
+width: 48%;
+min-height: 300px;
+margin-bottom: 5px;
+
+}
+
+.classe_div_chat_publicar{
+
+float: left;
+padding: 1%;
+width: 98%;
+height: 70px;
+background-color: #f4f4f4;
+
+}
+
+.classe_div_chat_conversa_recebidas{
+
+float: left;
+width: 100%;
+margin-bottom: 5px;
+height: 440px;
+background-color: #f4f4f4;
+overflow: auto;
+
+}
+
+.classe_div_chat_conversa{
+
+float: left;
+padding: 1%;
+width: 48%;
+height: 560px;
+margin-bottom: 5px;
+
+}
+
+.classe_div_usuario_chat{
+
+float: left;
+width: 100%;
+padding-bottom: 2px;
+margin-bottom: 5px;
+border-bottom-color: #dfe793;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+cursor: pointer;
+
+}
+
+.classe_div_imagem_perfil_chat{
+
+float: left;
+margin-right: 3px;
+
+}
+
+.classe_div_nome_perfil_chat{
+
+float: left;
+margin-top: 10px;
+max-width: 175px;
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+  
+}
+
+.classe_div_chat_publicar div{
+
+float: left;
+width: 100%;
+margin-bottom: 3px;
+
+}
+
+#id_campo_escrever_mensagem{
+
+width: 100%;
+
+}
+
+.classe_div_mensagem_1{
+
+background-color: #e3f1ba;
+width: 98%;
+padding: 1%;
+float: left;
+margin-bottom: 10px;
+cursor: default;
+
+}
+
+.classe_div_mensagem_2{
+
+background-color: #bae3f1;
+width: 98%;
+padding: 1%;
+float: left;
+margin-bottom: 10px;
+cursor: default;
+
+}
+
+.classe_div_conteudo_mensagem_chat{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_data_mensagem_chat{
+
+float: left;
+width: 100%;
+text-align: right;
+display: none;
+margin-top: 15px;
+
+}
+
+.classe_div_mensagem_1:hover div{
+
+display: inline;
+
+}
+
+.classe_div_mensagem_2:hover div{
+
+display: inline;
+
+}
+
+.classe_div_campo_opcoes_chat{
+
+float: right;
+width: 48%;
+padding: 1%;
+margin-bottom: 5px;
+background-color: #f4f4f4;
+
+}
+
+.classe_div_campo_opcoes_chat div{
+
+float: left;
+margin-right: 5px;
+cursor: pointer;
+
+}
+
+.classe_div_usuario_chat div{
+
+float: left;
+
+}
+
+.classe_div_campo_notificacao_chat_nova_mensagem_usuario{
+
+margin-top: 6px;
+
+}
+
+.classe_div_usuario_online_chat{
+
+float: left;
+margin-right: 5px;
+display: none;
+margin-top: 12px;
+
+}
+

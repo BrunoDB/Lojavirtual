@@ -1,0 +1,20 @@
+.classe_div_mensagem_sistema_sucesso{
+
+width: 98%;
+padding: 1%;
+color: #3b5998;
+border-width: 1px;
+border-style: solid;
+border-color: #9ae98d;
+background-color: #ccf4c6;
+float: left;
+margin-top: 5px;
+margin-bottom: 5px;
+
+}
+
+.classe_div_mensagem_sistema_sucesso *{
+
+color: #3b5998;
+
+}

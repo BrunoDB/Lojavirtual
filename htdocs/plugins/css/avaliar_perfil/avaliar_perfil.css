@@ -1,0 +1,63 @@
+.classe_div_avaliar_perfil{
+
+float: left;
+width: 98%;
+padding: 1%;
+margin-bottom: 10px;
+
+}
+
+.classe_div_avaliar_perfil_titulo{
+
+float: left;
+width: 100%;
+float: left;
+margin-bottom: 10px;
+font-size: 16px;
+font-weight: bold;
+
+}
+
+.classe_div_avaliar_perfil_apresenta_repucacao{
+
+float: left;
+width: 100%;
+height: 18px;
+margin-bottom: 5px;
+
+}
+
+.classe_div_avaliar_perfil_apresenta_repucacao div{
+
+float: left;
+width: 100px;
+height: 100%;
+font-weight: bold;
+text-align: center;
+
+}
+
+.classe_avaliacao_1{
+
+background-color: #f2b4ab;
+color: #7f7f7f;
+cursor: pointer;
+
+}
+
+.classe_avaliacao_2{
+
+background-color: #f9f59d;
+color: #7f7f7f;
+cursor: pointer;
+
+}
+
+.classe_avaliacao_3{
+
+background-color: #a8eca2;
+color: #7f7f7f;
+cursor: pointer;
+
+}
+

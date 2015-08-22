@@ -1,0 +1,56 @@
+<?php
+
+// paginas href
+$pagina_href[0] = URL_SERVIDOR."?$requeste[0]=$idioma[3]";
+$pagina_href[1] = URL_SERVIDOR."?$requeste[0]=$idioma[14]";
+$pagina_href[2] = URL_SERVIDOR."?$requeste[0]=$idioma[15]";
+$pagina_href[3] = URL_SERVIDOR."?$requeste[0]=$idioma[17]";
+$pagina_href[4] = URL_SERVIDOR."?$requeste[0]=$idioma[19]";
+$pagina_href[5] = URL_SERVIDOR."?$requeste[0]=$idioma[21]";
+$pagina_href[6] = URL_SERVIDOR."?$requeste[4]=";
+$pagina_href[7] = URL_SERVIDOR."?$requeste[0]=$idioma[48]";
+$pagina_href[8] = URL_SERVIDOR."?$requeste[2]=";
+$pagina_href[9] = URL_SERVIDOR."?$requeste[3]=";
+$pagina_href[10] = URL_SERVIDOR."?$requeste[0]=$idioma[76]";
+$pagina_href[11] = URL_SERVIDOR."?$requeste[0]=$idioma[77]";
+$pagina_href[12] = URL_SERVIDOR."?$requeste[0]=$idioma[78]";
+$pagina_href[13] = URL_SERVIDOR."?$requeste[0]=$idioma[80]";
+$pagina_href[14] = URL_SERVIDOR."?$requeste[0]=$idioma[81]";
+$pagina_href[15] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[16] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[17] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[18] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[19] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[20] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[21] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[22] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[23] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[24] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[25] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[26] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[27] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[28] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[29] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[30] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[31] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[32] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[33] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[34] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[35] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[36] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[37] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[38] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[39] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[40] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[41] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[42] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[43] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[44] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[45] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[46] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[47] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[48] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[49] = URL_SERVIDOR."?$requeste[0]=xx";
+$pagina_href[50] = URL_SERVIDOR."?$requeste[0]=xx";
+
+?>

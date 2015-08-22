@@ -1,0 +1,118 @@
+.classe_div_opcao_pagina_vendas{
+
+float: left;
+width: 98%;
+padding: 1%;
+margin-bottom: 10px;
+
+background-color: #efefef;
+border-bottom-color: #eaeaea;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+display: table;
+
+}
+
+.classe_div_vendido_pagina_vendas{
+
+float: left;
+width: 98%;
+padding: 1%;
+margin-bottom: 10px;
+
+}
+
+.classe_div_opcao_pagina_vendas *{
+
+float: left;
+margin-right: 5px;
+
+}
+
+.classe_div_opcao_pagina_vendas span{
+
+margin-top: 11px;
+
+}
+
+.classe_div_relatorio_venda{
+
+float: left;
+width: 100%;
+margin-bottom: 40px;
+border-color: #b2b2b2;
+border-style: solid;
+border-width: 5px;
+border-left-width: 0px;
+border-right-width: 0px;
+padding-top: 2px;
+padding-bottom: 2px;
+
+}
+
+.classe_div_relatorio_venda_separa_campo{
+
+float: left;
+width: 100%;
+margin-bottom: 5px;
+background-color: #eaeaea;
+
+}
+
+.classe_div_relatorio_venda_span{
+
+font-weight: bold;
+
+}
+
+.classe_div_relatorio_venda_imagem_1{
+
+float: left;
+
+}
+
+.classe_div_relatorio_venda_imagem_1_texto{
+
+float: left;
+margin-top: 8px;
+font-size: 16px;
+font-weight: bold;
+margin-left: 5px;
+color: #127f19;
+
+}
+
+.classe_div_relatorio_venda_botao_descartar{
+
+float: left;
+width: 100%;
+margin-top: 8px;
+
+}
+
+.classe_div_produto_nao_pago{
+
+width: 98%;
+padding: 1%;
+background-color: #f2b4ab;
+float: left;
+margin-top: 5px;
+margin-bottom: 5px;
+font-size: 16px;
+font-weight: bold;
+
+}
+
+.classe_div_produto_sim_pago{
+
+width: 98%;
+padding: 1%;
+background-color: #a3db78;
+float: left;
+margin-top: 5px;
+margin-bottom: 5px;
+font-size: 16px;
+font-weight: bold;
+
+}
+

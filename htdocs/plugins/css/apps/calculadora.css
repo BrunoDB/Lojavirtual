@@ -1,0 +1,47 @@
+.classe_div_calculadora{
+
+width: 300px;
+padding: 1%;
+margin-left: auto;
+margin-right: auto;
+background-color: #fff7cc;
+border-color: #ffef99;
+border-width: 1px;
+border-style: solid;
+border-radius: 4px;
+display: table;
+
+}
+
+.classe_div_visor_calculadora{
+
+float: left;
+width: 100%;
+margin-bottom: 8px;
+font-weight: bold;
+font-size: 24px;
+min-height: 28px;
+text-align: center;
+color: #7f6b00;
+
+}
+
+.classe_div_botoes_calculadora{
+
+float: left;
+padding: 2%;
+width: 96%;
+
+}
+
+.classe_div_botoes_calculadora input[type=button]{
+
+float: left;
+margin-right: 3px;
+width: 54px;
+margin-bottom: 5px;
+
+}
+
+
+

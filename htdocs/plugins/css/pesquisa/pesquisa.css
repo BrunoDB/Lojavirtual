@@ -1,0 +1,32 @@
+.classe_campo_pesquisa{
+
+margin-bottom: 25px;
+width: 100%;
+display: table;
+
+background-color: #efefef;
+border-bottom-color: #eaeaea;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+padding-top: 5px;
+
+}
+
+.classe_campo_pesquisa input[type=text]{
+
+min-width: 300px;
+max-width: 50%;
+width: 50%;
+
+}
+
+.classe_campo_pesquisa div{
+
+float: left;
+width: 100%;
+max-height: 40px;
+margin-bottom: 5px;
+text-align: center;
+
+}
+

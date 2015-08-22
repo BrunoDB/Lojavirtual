@@ -1,0 +1,25 @@
+.classe_div_emoticons{
+
+float: left;
+width: 98.5%;
+margin-left: 2px;
+
+}
+
+.classe_div_emoticons img{
+
+width: 14px;
+height: 14px;
+float: left;
+margin: 2px;
+cursor: pointer;
+
+}
+
+.classe_emoticon_usuario{
+
+width: 18px;
+height: 18px;
+
+}
+

@@ -1,0 +1,151 @@
+
+@font-face {
+
+/*
+
+font-family: 'tahoma';
+src: url('tahoma.ttf');
+src: local('tahoma'), url('tahoma.ttf') format('truetype');
+
+*/
+
+}
+
+*{
+
+word-break: break-all;
+color: #000;
+margin: 0px;
+padding: 0px;
+direction: ltr;
+font-family: tahoma;
+font-size: 12px;
+line-height: 1.182;
+font-weight: normal;
+font-smoothing: subpixel-antialiased;
+
+}
+
+a{
+
+color: #2B587A;
+text-decoration: none;
+cursor: pointer;
+
+}
+
+a:hover{
+
+text-decoration: underline;
+
+}
+
+body, html{
+
+max-width: 100%;
+min-width: 320px;
+height: 100%;
+margin-left: auto;
+margin-right: auto;
+background-color: #ffffff;
+
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+}
+
+.classe_div_principal_pagina{
+
+padding: 0px;
+margin: 0px;
+width: 99.5%;
+margin-left: auto;
+margin-right: auto;
+
+min-height:100%;
+position:relative;
+
+}
+
+.div_topo_pagina{
+
+width: 100%;
+min-height: 40px;
+background-color: #ffff66;
+border-bottom-color: #e5e500;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+display: table;
+
+}
+
+.div_topo_pagina a{
+
+font-weight: bold;
+font-size: 12px;
+
+}
+
+.div_conteudo_pagina{
+
+width: 100%;
+display: table;
+margin-top: 5px;
+margin-bottom: 5px;
+padding-bottom: 75px;
+
+}
+
+.div_rodape_pagina{
+
+width: 100%;
+min-height: 35px;
+
+background-color: #e5e5e5;
+border-top-color: #cccccc;
+border-top-style: solid;
+border-top-width: 1px;
+
+text-align: center;
+padding-top: 3px;
+padding-bottom: 3px;
+
+position: absolute;
+bottom: 0;
+left: 0;
+
+}
+
+a:link{
+
+text-decoration: none;
+
+}
+
+.classe_div_logotipo_topo{
+
+float: left;
+margin-top: 3px;
+margin-left: 3px;
+margin-right: 8px;
+
+}
+
+.classe_div_conteudo_rodape{
+
+float: left;
+width: 98%;
+padding: 1%;
+
+}
+
+.classe_div_conteudo_rodape_div{
+
+float: left;
+width: 32%;
+margin-right: 1%;
+
+}
+
